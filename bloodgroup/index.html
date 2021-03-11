@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<!--<link rel="stylesheet" type="text/css" href="style.css">-->
+	<!--<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=lato">-->
+	<title>Blood group checker</title>
+
+  <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">-->
+  <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>-->
+  <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>-->
+	<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+    <div class="container">
+    	<h1>ABO Blood Group System Compatibility Checker</h1>
+        <input type="text" name="messageIn" id="messageIn" placeholder="Enter donors blood group" title="Donors blood group"> <span>+</span>
+        <input type="text" name="messageIn2" id="messageIn2" placeholder="Enter recipients blood group" title="recipients blood group">
+   
+         <button id="sendBtn" type="button">check compatibility</button>
+         <!--<button id="sendBtn2" type="button"> Get More Details</button>-->
+         
+         <h1>Compatibility Result:</h1>
+         <h1 id="messageOut"></h1>
+    
+    <!--<div class="container">-->
+   <table class="table table-bordered table-condensed" id="bloodtable" >
+    <thead>
+      <tr >
+        <th>Blood Group</th>
+        <th>Antigen on RBC</th>
+        <th>Antibody on plasma</th>
+        <th>Compatibility</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td id="donor-bloodgroup">Donor</td>
+        <td id="donor-antigen">fjj</td>
+        <td id="donor-antibody">dfgh</td>
+        <td id="compatibility" rowspan="2">fgjjj</td>
+      </tr>
+      <tr>
+        <td id="recipients-bloodgroup">Donor</td>
+        <td id="recipients-antigen">fghj</td>
+        <td id="recipients-antibody">yyy</td>
+       
+      </tr>
+     
+    </tbody>
+  </table>
+  <h4 id="explanation"><i>Note: Only the donor's antigen and the recipient's antibody is important 
+    in determing compatibility. If the donor's antigen is similar to the recipient's antibody the two blood types are not compatible. If they are different the two blood types are compatible.</h4>
+</div>
+
+	<script type="text/javascript" src="script2.js"></script>
+</body>
