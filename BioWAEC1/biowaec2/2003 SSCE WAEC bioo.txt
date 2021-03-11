@@ -1,0 +1,60 @@
+1     Which of the following is not correct about the living cell? # All the cells in organisms are the same. # All living organisms are either single or groups of cell(s) # There is no life apart from the life in cells. # The basic unit of a living organism is the cell. #
+2     Which of the following statements about ribosomes is not correct? Ribosomes # release enzymes for the digestion of bacteria. # contain a large amount of ribonucleic acid (RNA). # are attached to endoplasmic reticulum. # are responsible for protein synthesis. #
+3     The protoplasm of a living cell is made up of the nucleus and # cytoplasm # cell wall. # cell sap. # vacuole. #
+4     A bacterial cell differs from eukaryotic cell by having no # nuclear material # nuclear membrane # cell membrane. # cell wall. #
+5     When a plant shoot is placed in a dye solution, under which of the following physical conditions will the dye move up the stem? # High temperature and low humidity # Low temperature and high humidity # High temperature and high humidity. # Low temperature and low humidity #
+6     Which of the following is not true of Rhizopus or mucor? It # undergoes sexual and asexual reproduction. # has non-septate hyphae. # bears spores in sporangia. # manufactures its own food. #
+7     The main reason why rotten eggs should be separated from fresh eggs is that # foul air from the rotten eggs could easily diffuse through the shells of fresh eggs. # fresh eggs could easily crack if foul air diffuses into it. # It is difficult to get rid of foul air on egg shells. # a fresh egg shrinks if foul air diffuses into it. #
+8     Which of the following is described as an increase in dry weight? # Growth# Adsorption # Ingestion # Reproduction #
+9     When the zygote of an organism continues to grow, it produces new cells by # meiosis. # crossing-over # gestation. # mitosis. #
+10    Which of the following substances is a common excretory product in both plants and animals? # Carbon dioxide# Oxygen # Mineral salts # Urine #
+11    Which of the following tissues does not offer support in plants? # Meristem # Sclerenchyma # Collenchyma # Xylem #
+12    The function of the human red blood cells is to # carry oxygen # absorb heat. # destroy bacteria. # make antibodies #
+13    Which of the following structures of the human body provides the best surface for diffusion? # Aveolus # Stomach # Oesophagus # Skin #
+14    Which of the following constitutes the cellular components of the mammalian blood? I Haemoglobin II Erythrocytes III Leucocytes iv Platelets # Il, III and IV only # I, Ill and IV only # l,ll,lII and lV # I, Il and Ill only #
+15    Transpiration in plants results in the # continuous streaming of water through the plant. # pale, green colouration of portions of the leaves. # opening of stoma. # closure of the stomata at night. #
+16    Which organ removes the largest quantity of water from the blood? # Kidney # Intestine # Skin # Lung #
+17    In cold condition, the mammalian body reacts in the following ways except # dilation of the capillaries supplying blood to the skin. # constriction of blood capillaries in the skin. # increased rate of chemical changes in the body. # shivering of the body. #
+18    The glomerular filtrate contains the following substances except # blood corpuscles. # urea # glucose. # water #
+19    Which of the following endocrine glands is a master gland? # Pituitary gland # Thyroid gland # Pancreas # Ovary #
+20    The part of the nervous system that interpretes blinking of the eye is the # spinal cord # cerebrum # hind brain. # olfactory lobe. #
+21    The endocrine gland secreting hormone that induces the thyroid gland to produce more thyroxine is # parathyroid gland.# adrenal gland # pituitary gland # Islets of Langerhans #
+22    The layer of light-sensitive cells in the human eye is called the # retina # sclerotic layer. # conjunctiva. # cornea. #
+23    Which of the following is the function of the iris of the mammalian eye? # Regulates the amounts of light entering the eye # Absorbs dangerous rays from sunlight # Bringing light rays to focus on the retina. # Closes an opens the eye #
+24    Placentation of plants is best described as the # arrangement of ovules in the ovary # arrangement of fruits on the branches. # development of ovules in the ovary # formation of the pericarp from the ovary wall. #
+25    A flowering plant having both the male and female flowers on the same plant, is said to be # monoecious # irregular # dioecious. # regular #
+26    The function of the amniotic fluid in humans is to # protect the foetus against shocks. # remove waste products from the foetus. # supply food and water to foetus. # carry oxygen to the foetus. #
+27    Which of the following groups of compounds are products of the light stage of photosynthesis? I Ribulose bi-phosphate (RuBP) II Nicotinamide di-phosphosphate (NADPH) III Oxygen (02) IV Adenosine Triphosphate (ATP) # Il, III and IV # I, III and IV # I, II, III and IV # I, II and III #
+28    In the test for starch, the leaf is first placed in boiling water to # kill and make the leaf permeable. # dissolve the waxy cuticle. # turn it blue-black. # remove the chlorophyll. #
+29    Which of the following statements about water in humans is not correct? It # plays a role in the formation of vitamin # acts as solvent for substances conveyed around the body #is needed for many life processes. # plays an important role in temperature regulation #
+30    Which of the following is considered to be the first product of photosynthesis? # Starch# Energised chlorophyll # Hydroxyl ions # Protein #
+31    Which of the following organisms exhibits extracellular digestion? # Moulds # Green plants # Algae # Bryophytes #
+32    Which of the following essential substance is contained in vegetables? # Mineral salts # Glucose # Carbon dioxide # Chlorophyll #
+33    Good quality food will perform the following functions in humans except # providing resistance against malaria. # sustaining growth # maintaining health. # supplying energy. #
+34    The type of nutrition shown by Spirogyra is # holophytic # holozoic # chemosynthetic. # symbiosis. #
+35    The term ecosystem refers to # living organisms interacting with the physical environment # living members of a habitat. # members of particular plants and animals living in a habitat. # different groups of green plants in a habitat. #
+36    Ecology is best defined as the study of # the inter-relationship between living organisms and the environment # living organisms in a particular area. # the habitats and wildlife. # the characteristics of an environment. #
+37    Which of the following environmental factors is not considered in a terrestial habitat? # Turbidity :# Sunlight # Humidity # Temperature #
+38    Which of the following values showing the total biomass of organisms in a food chain represents the secondary consumer? # 20 # 3,000 # I # 40,000 #
+39    The gas produced during decomposition of matter is # hydrogen sulphide # carbon monoxide. # chlorine # oxygen. #
+40    Fish cannot survive on land because it has # no lungs. # a streamlined body. # no walking appendages. # a body covered with scales #
+41    Pneumatophores are essential for # breathing # movement # growth # nutrition #
+42    Which of the following will have the least effect on the rate of change of the numbers in a population? # Mutation # Predation # Disease # Food supply #
+43    Competition among individuals of a population increases the # survival of the fittest # availability of nutrient supplied. # enlargement of the territory. # number of organisms #
+44    Rabbits cannot survive in an aquatic habitat because they have # no gills # no fins # no scales. # fore-and hind-limbs #
+45    viruses are pathogens of the following diseases except # tuberculosis.# smallpox. # poliomyelitis # measles #
+46    Renewable resources are formed by # organisms that are constantly regenerating themselves. # organisms confined to forest reserves. # plants and animals that can reproduce sexually. # animals that reproduce sexually #
+47    Forest conservation include the following except # extensive felling of forest-trees. # replacing of harvested trees by planting seedlings # selective exploitation of forest trees. # prevention of bush-fires #
+48    Legumes incorporates nitrogen gas into their proteins because # they possess root nodules containing Rhizobium. # they have a well developed root system. # they are autotrophic. # of the presence of Azotobacter in their roots #
+49    Improper sewage disposal could be dangerous for the following reasons except # there would be little space for disposal of wastes.# the spread of gastro-intestinal diseases are enhanced. # resultant out- break of water-borne diseases # the smell of carelessly disposed sewage water is most undesirable. #
+50    Which of the following is an example of continuous variation? # Height in humans# Sex differences in humans # Haemoglobin types # Human Blood groups #
+51    Which of the following is an example of discontinuous variation? # Offspring, including two male cats and three female cats # The colour of pear plants grown in the dark. # The adult body weight ranging from 50 kg to 95 kg. # The range in height of a pea plant from 30 cm to 50 cm. #
+52    Which of the following pairs of scientists discovered the Rhesus factor in human blood? # Landsteiner and Lavine # Darwin and Landsteiner # Hooke and Darwin # Hooke and Lavine #
+53    The organic molecule(s) present in the nucleus is/are # Protoein, RNA and DN# # # RNA and ATP # RN# # DNA #
+54    In an experiment, a red-flowered plant was crossed with another red-flowered plant and the following results were obtained; 448 red flowers and 154 white flowers in the F generation. Which of the following represents the genotypes of the parents if R is for red gene and r for white  gene? # Rr x Rr# RR x rr # rr X rr #  R x Qr #
+55    In an experiment, a red-flowered plant was crossed with another red-flowered plant and the following results were obtained; 448 red flowers and 154 white flowers in the F generation.  Which of the following represents the phenotypic ratio of the above genetiò cross? # 1:2:1 # 4:1 # 3:1 # 2:2 #
+56    A sudden loss of black pigment from the skin of an African can be attributed to # mutation in the skin cells.# a recombination of genes # loss of the epidermis # a blendinq of black  and white genes. #
+57    In Mendel’s experiments, it was discovered that the F1 generation of a cross between a brown cock and a white hen were all brown because the gene for the # brown colour was dominant. # white colour was dominant. # white colour did not combine. # brown colour was recessive. #
+58    Sickle-cell anaemia has persisted in the human race due to # carriers being more resistant to malaria. # mosquito vectors. # wildlife intermediate hosts. # lack of proper medical care for sicklers. #
+59    Which of the following is not a behavioural adaptation used by social animals? # Flesh # Mimicry # Season # Cryptic #
+60    In natural selection, Darwin proposed that evolution occurred because of the following conditions except # food and other needs are abundant. # there is a fierce competition among the offsprings. # that the weaker offsprings are eliminated # that nature selects those that will survive to reproduce their kind.#

@@ -1,0 +1,60 @@
+﻿1     The branch of Biology that deals with the principles of classification of organisms is known as # taxonomy # nomenclature # ecology # biological index #
+2     Which of the following structures is a tissue? # Blood # sieve tube element # Erythrocyte. # Vessel element #
+3     Which of the following cells are not regarded as specialized? # Somatic cells.# Root tip cells # Muscle cells # Sperm cells #
+4     Which of the following pairs of cells carry out the same function? # Spermatozoan and ovum # Palisade cell and epidermal cell # Root tip cell and guard cell. # Check cell and red blood cell #
+5     If Amoeba is placed in a salt solution, the contractile vacuoles would # be formed less frequently # be more numerous. # grow bigger before they burst. # be bursting more frequently. #
+6     In which of the following habitats is Paramecium not found? # Lake # Aquarium # Puddle # Pond #
+7     The following processes are involved in water movement in the endodermis except # vacuolar pathway # diffusion # active transport # osmosis #
+8      Cells that utilize a lot of energy are characterized by the presence of a large number of # mitochondria # endoplasmic reticulum # ribosomes # vacuoles #
+9      The diagram below represents the phenomenon of growth in a meristematic cell of a plant, use it to answer the following questions.  The part labelled II in the diagram is the # chromatid # chloroplast # tonoplast. # centriole  #2011bio4.jpg
+10     The diagram below represents the phenomenon of growth in a meristematic cell of a plant, use it to answer the following questions.  The part labelled I  is called the # spindle.# centromere # centriole # nucleolus #2011bio4.jpg
+11     Secondary growth is brought about by the activities of the # vascular cambium and phellogen.# phellogen and procambium # vascular cambium and phelloderm # phellogen and phelloderm. #
+12     A monocot root is different from a dicot root by having # wide pith. # cambium. # root hair. # endodermis. #
+13     Which of the following statements best describes haemoglobin? It is # an oxygen carrying pigment. # a red blood cell. # needed for blood clotting. # yellowish in colour. #
+14     Inhaled air is made warm and moist in the # trachea. # nasal cavity. # mouth. # epiglottis. #
+15     Which of the following structures is not involved in respiration? # Stomach # Mouth #Trachea.  # Lung books #
+16     Filtrate in the Bowman’s capsule contains vitamins because # they can be reabsorbed into the blood. # they have low molecular weight. # most of them are fat soluble. # only a little amount is required by the body. #
+17     More sweat is produced during muscular exercise because # the temperature of the body rises. # fermentation occurs in muscles # the muscle fatigues. # the contracting muscles produces water #
+18     Which of the following neurons may not have myelin sheath? # Intermediate neurons. # Motor neurons. # Sensory neurons. # Effector cells. #
+19     Which of the following is an effector organ? # Tongue # Skin # Nose bridge # Ear glands. #
+20     During sexual reproduction in Paramecium, how many times does the zygote divide to produce eight nuclei? # 4# 2 # 3 # 1 #
+21     The testes in male mammals descend into the scrotal sac because # they require a relatively low temperature.# they run the risk of being destroyed. # they need special support. # there is congestion in the lower abdomen #
+22     Some animals return to water bodies to reproduce because # the temperature on land is not suitable for the development of their embryos.# water nourishes their embryos and their young ones. #they are close to their ancestors and imitate them # natural enemies destroy their eggs on land. #
+23     Which of the following methods is appropriate for the cultivation of cassava? # Stem cutting.# Fragmentation # Root cutting # Budding #
+24     What will be the chromosome number of the hybrid of two varieties of a plant with 36 chromosomes in the endosperm cell? # 36 # 24 # 48. # 12 #
+25      Kreb’s cycle occurs in the # mitochondria # cytoplasm # nucleus # ribosomes. #
+26     The process whereby electrons are emitted from chlorophyll and returned to it unchanged is known as # photophorylation # photochemical reaction # cyclic photophorylation. # non-cyclic phosphorylation #
+27     Which of the following statements about photosynthesis is not true? # Carbon dioxide is absorbed by the leave in bright light # Oxygen is produced during photosynthesis from the breakdown of water # Photosynthesis occurs in green plants. # Plants can photosynthesize without an increase in dry weight #
+28     The equation below represents the process of glycolysis.  X in the equation represents # glucose 6 phosphate # glucose phosphate lucose triphosphate. # fructose phosphate. #  glucose diphosphate #
+29     The removal of all phloem tissues of the stem of a plant close to the root system for a long period of time is likely to # cause the plants to wither and die.# accumulate more starch in the roots # cause the underground roots to develop buds # provide more energy to the roots #
+30     The conversion of glucose to starch in the leaf during the day principally # enables the leaf to store the starch. # prevents osmotic problems, # enablec glucose to be used up. # enables photosynthesis. #
+31     Which of the following groups of substances are  six-carbon compounds? # Glucose and Lactose # Lactose and Cellulose # Glucose, Lactose and Pyruvate #Pyruvate and Cellulose. #
+32     A purple colour was obtained when sodium hydroxide solution and drop of copper sulphate solution was added to a food substance, the food substance is likely to be a # protein # fat. # sugar. # carbohydrate. #
+33     Which of the following enzymes is active in the duodenum? # Trypsin # Renin # Amylase # Pepsin #
+34     The following organisms are producers except # Cactus # Mushroom # Spirogyra. # Hibiscus #
+35     Which of the following structures produces the greatest variety of digestive enzymes? # Pancreas # Stomach # Colon. # Salivary glands #
+36     The following are abiotic components of an ecosystem except # bacteria #oxygen # soil. # temperature #
+37     Use the in formation on capture-recapture method to  calculate the total number of organisms in a habitat. First capture = 200, second capture = 720; Number of organisms with mark in second capture = 40. The total number of organism therefore is #600 # 360 # 800. # 200 #
+38     Ecological investigation in a habitat includes the following procedures except # determining the genetic make-up of specimens # identification of specimens # measuring abiotic and biotic factors. # Choosing a habitat #
+39     Which of the following substances when lost from the body of a mammal will not be returned to the ecosystem? # Sweat. # Urea # Heat energy # Carbon dioxide #
+40     The rate of decomposition of organisms is faster in the tropical rain foret than in other biomes because # of abundance of water. # there are more plants per square feet. # of constant cool temperature. # of the relatively constant daylight #
+41     A Xerophyte conserves water by possession of the following features except # broad leaves # sunken stomata # fleshy stem. # thick cuticle #
+42     The falling off of leaves of deciduous trees is helpful to the plant because it # reduces the rate of transpiration # enables the plant to conveniently eliminate its excretory products. # enables the plant to bear more fruits. # ensures that the limited mineral salts get to only growing regions. #
+43     A sample of wet garden soil of known weight was heated to constant weight. The loss of weight is due to loss of # water and inorganic matter.# organic matter # water and organic matter # water #
+44     Assuming that a period of stable population size is followed by a period when natality increases by ten (10) percent and immigration by twenty(20) percent of population size. The population size will # increase by forty (40) percent # begins to increase # begin to decrease. # be at equilibrium. #
+45     Which of the following methods does not make water fit for drinking? # Addition of alum.# Boiling # Distillation # Addition of chlorine #
+46     Vaccination results in # production of antibodies which destroy toxins of germs. # arresting excessive bleeding. # production of white blood cells which engulf and digest bacteria. # aiding red blood cells to carry more oxygen #
+47     Leguminous crops are incorporated into crop rotation in order to # promote nitrogen fixation. # increase the rate of soil formation. # improve upon the water holding capacity of the soil. # improve aeration of soil. #
+48     Which of the following practices improves crop yield in a clayey soil? Addition of # lime and humus. # fertilizers. # weedicides and fertilizers. # more water and humus. #
+49     Which of the following activities promotes forest conservation? # Afforestation #Use of firewood for cooking # Production of paper # Lumbering #
+50     Which of the following statements is not true about continuous variation? It # is usually controlled by one or two pair(s) of genes.# can be influenced by environmental factors # follows a normal distribution curve # is usually controlled by several genes #
+51     Acquired characters are # caused by The environment # passed to offspring # caused by mutation. # received from parents #
+52     Differences in the characteristics observcd between individuals of the same species is known as # variation.# phenotype. # mutation # trait. #
+53     Which of the following statements best describes protein synthesis? # DNA is directly involved in translation #Translocation of the ribosomes exposes a new codon for base pairing with an amino acid # Each tRNA with a particular anticodon always carries a different protein in the prucess # One amino acid is always by more than one tRNA #
+54     If a person has two alleles of tne sickle cell anaemia gene, the person # is a heterozygous carrier of the disease. # is immune to the disease and cannot pass it on an offspring. # has the disease # is probably an Asian ancestry. #
+55     What is the probability of a man of blood group AB married to a woman of blood group O producing a child of blood group O? # 25% # 50% # 75% # 0% #
+56     A man with blood group  I\u207A I\u207A   is married to a woman with blood group  I\u207A I\u2092o The blood group of their son is likely to be # A  # O # B # AB #
+57     Natural selection is a consequence of # adverse conditions. # variation in organisms # inbreeding. # distribution of organisms. #
+58     Which of the following components of Larmark’s theory of evolution is considered faulty #Changes that results in individuals of the same species are transmitted to offspring.# Use of certain organs result in development of those parts #Unused organs degenerate # Individual of the same species growing under different environmental conditions differ from each other. #
+59     A vestigial structure in humans is # tail bone # toe bone # spleen # earlobe #
+60     Adenine pairs with thymine because # one is a strong base and the other a weak base # two purine bases easily pair up # one is a purine base and the other a pyrimidine.# the two occur in the same nucleic acid. #

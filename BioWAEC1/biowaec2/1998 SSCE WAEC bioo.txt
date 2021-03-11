@@ -1,0 +1,60 @@
+﻿1     Which of the following organisms exhibits both plant and animal characteristics? # Moss#Spirogyra # Mucor # Euglena # Amoeba #
+2     Which of the following is not an organ? # Hair # Tongue # Rhizome # Corm  # Heart #
+3     One major difference between osmosis and diffusion is that diffusion # does not need a semi-permeable membre # does not take place in living tissues. # takes place only in a liquid medium. # takes place only in a gase medium. # cannot be demonstrated experimentally. #
+4     Which of the following is a difference between mitosis and meiosis? # Pairing of homologous chromosome# Replication of the chromosomes and the cell organelles # Formation of spindle fibres # Thickening of chromatin threads at prophase. # Alignment of chromosomes along equitorial plane #
+5     Which of the following can be used for vegetative propagation? # Ginger stem # Yam leaf # Plaintian roots # Sweet potato tuber # Carrot root #
+6     Which of the following is a method of arficial vegetative progagation? # Layering # Corm # Rhizome #  # Creeping stem  #
+7     Use the diagram below to answer the following question.   The diagram represents a  # cross section of a root. # longitudinal section of a root # transverse  section of a stem  # longitudinal section of a leaf. # longitudinal section of a stem #1998bio4.jpg
+8     Use the diagram below to answer the following question.   The part labelled II in the diagram is the # cortex # phloem # xylem. # cuticle. # epidermis  #1998bio4.jpg
+9     Use the diagram below to answer the following question.   The part labelled IV in the diagram is the # xylem  # pericycle # cortex. # epidermis # phloem. #1998bio4.jpg
+10    Which of the following is not a function of the blood? # Distribution of bile # Formation of clot # Transportation of excretory materials # Distribution of hormone # Maintenance of body temperature #
+11    Which of the following statements about the circulation of blood is correct? # Deoxygenated blood flows into the heart through the vena cavae. # Blood is pumped out of the heart through the aorta # Oxygenated blood from the lungs is carried to the left auricle. # The oxygenated blood enters the lungs through the pulmonary vein. # Ventricles contract to pump blood into the aorta. #
+12    A difference between the auricle and the ventricle of the mammalian heart is that the # walls of the ventricles are more muscular than that of the auricles.# ventricles do not have outlets. # auricles have no valves. # walls of the ventricles are less muscular than that of the auricles. # ventricles carry deoxygenated blood. #
+13    Which of the following organisms respires through the body surface? # Amoeba # Fish # Tridax # Hibiscus # Man #
+14    The stomata of a leaf perform the same function as # spiracles of insects # trachea of toads # pharynx of man # liver of man # scales of fish #
+15    Which of the following does not happen during inspiration? # Diaphragm relaxes # Ribs move forward # Thoracic cavity increases # Internal air pressure decreases. # Intercostal muscles contract #
+16    Which of these is not an excretory product of plant? # Sweat # Gum # Alkaloid # Anthocyanin # Tannin #
+17    Which of these is not a function of the kidney? # Production of bile.# Maintenance of acid base balance body # Osmo-regulation # Removal of urea # production of urine #
+18    In which part of the kidney does ultrafiltration take place? # Bowman’s capsule # Distal convoluted tubule # Proximal convoluted tubule # Collecting duct # Afferent arteriole. #
+19    Which of the following organs is concerned with detoxication of harmful compounds? # Liver # Lungs # bladder # Pancreas # Kidney #
+20    The hormone that promotes secondary sexual characteristics in females is # oestrogen.# thyroxin. # testosteron # oxytocin. # insulin. #
+21    Use the diagram below to answer the following question.  The cell body in the diagram is labelled # I. # II  # III. # IV. # V. #1998bio5.jpg
+22    Use the diagram below to answer the following  question.  The function of the part labelled II in the diagram is to  # protect the axon # manufacture food for the cell. # produce energy for the cell. # detect electrical impulses. # transmit impulse from one end of the cell to the other #1998bio5.jpg
+23    The organ responsible for equalising air pressure in the ear is the # Eustachian tube. # utriculus # ampulla # ear ossicle # sacculus. #
+24    Which of the following organisms lacks a reproductive organ? # Chlamydomonas # Toad # Pride of barbados # Cocroach # Man #
+25    Which of the following mammalian features acts as a shock-absorber to the developing embryo? # Amniotic fluid # Umbilical cord # Placenta # Amnion # Chorion. #
+26    The collective name for the female parts of the flower is # gynoecium # androecium # ovary # stigma  # style #
+27    If the petals of a flowering plant are removed, which of the following processes is likely to be affected? # Pollination # Germination # Photosynthesis # Dispersal. # Transipiration #
+28    Use the diagram below to answer the following question.   The part labelled II in the diagram is the # endosperm. # radicle. # colerhiza. # pericarp. # plumule. #1998bio6.jpg
+29    Use the diagram below to answer the following  question.   The part labelled IV in the diagram is the # radicle. # endosperm. # coleoptile. # pericarp. # plumule. #1998bio6.jpg
+30    The function of the part labelled V in the diagram is the # protection of the radicle. # storage of food. # secretion of digestive enzymes. # absorption of mineral salts. # manufature of food. #
+31    Which of the following is a feature of wind pollinated flowers # Smooth, light and numerous pollen grains.# Possession of sweet scent # Presence of nectar # Presence of pollen guides # Large and brightly coloured petals #
+32    In testing for starch in a leaf, the function of alcohol is to # extract the chlorophyll from the leaf.# soften the veins of the leaf. # aid iodine to penetrate the cells. # be a component of the heating bath. # kill the cells of the leaf. #
+33    Which of the following processes removes CO2 from the atmosphere? # Photosynthesis # Transpiration # Excretion # Combustion. # Respiration #
+34    The role of bacteria in the nitrogen cycle includes the following except # converting carbohydrates to carbon dioxide. # converting ammonia to nitrites # converting nitrites to nitrates. # causing the decay of dead organisms. # fixing atmospheric nitrogen. #
+35    The mode of nutrition which describes feeding habit in animals is # holozoic. # holophytic. # saprophytic. # photosynthetic. # autotrophic. #
+36    Which of the following organisms has homodont dentition? # Lizard# Man # Sheep # Cat # Rabbit #
+37    The pancreatic duct opens into the # duodenum. # colon. # ileum. # oesophagus. # caecum. #
+38    The enzyme that acts on milk in the stomach is # invertase. # trypsin. # diastase. # renin. # ptyalin. #
+39    Which of the following plants is a carnivore? # Sundew # Mushroom # Platycerium # Liverwort. # Desmodium #
+40    Hydra feeds by # digesting its food extra cellulary. # absorbing food digested by other organisms. # symbiotic association. # masticating the food particles. # synthesising its food chemically. #
+41    Which of the following contains a reducing sugar? # Milk # Cassava # Grapefruit # Beans # Plantain. #
+42    Which of the following instruments can be used to measure relative humidity? # Hygrometer # Wind guage # Barometer # Thermometer. # Anemometer #
+43    In a food chain, each stage in the chain is a # trophic level # web level. # consumption level # production level. # chain level. #
+44    Use the diagram below to answer the following question.  The diagram illustrates # the flow of energy in a habitat. # types of organisms in a habitat. # the hierarchy of  organisms in a habitat. # the food chain. # the size of various king organisms. #1998bio7.jpg
+45    Use the diagram below to answer the following questions.   Which of these organisms occupies the 3rd trophic level? # king fisher # Small fish # Phytoplankton Tadpole # Big fish # Tadpole #1998bio7.jpg
+46    Use the diagram below to answer the following questions.  Which of these organisms is a herbivore ? # Phytoplankton # King fisher # Small fish # Big fish. # Tadpole #1998bio7.jpg
+47    The presence of stilt and breathing roots are features of plants found in the # mangrove forests # fresh water swamp forests # southern guinea savanna # northern guinea savanna. # tropical rain forests #
+48    Excessive loss of water from the leaf is prevented by the # cuticle # midrib # parenchyma # mesophyll. # vascular bundle #
+49    Which of the following organisms will be a colonizing species of a heap of moist sub soil? # Ferns # White mangrove # Snails # Tadpole # Green algae #
+50    The earthworm is important because # each of its segments has chetae. # it has a clitellum # it aerates the soil. # it reproduces fast. # its body is always moist. #
+51    Which of the following plant parts is not a storage organs? # Sugar cane stem # Onion leaf # Banana stem # Cassava root # Carrot root #
+52    Which of the following statements about polio-myelitis is not correct. It # is a bacterial disease. # is capable of paralysing the limbs. # can be prevented by immunisation. # is an infant disease. # may cause wasting of the limb muscles. #
+53    Oil is sprayed over stagnant water in which mosquitoes breed in order to # prevent larva or pupa from attaching itself to the surface. # prevent the water from overheating. # lubricate the larva for easy movement. # provide surface for laying their eggs. # provide landing surface for the adult #
+54    In animals, the main protective covering is found in the # epithelial tissues # bone tissues # connective tissues. # vascular tissues. # adipose tissues. #
+55    How many chromosomes will be present in a gamete if the somatic cell has eight (8) chromosomes? # 4 chromosomes # 6 chromosomes # 8 chromosomes # 10 chromosomes # 16 chromosomes  #
+56    In a plant of genotype Tt, what is the probability that a gamete will contain gene t? # 1/2  #  1/4  #  1/8  #  1/8  #  1/4 #
+57    In a cross involving a heterozygous red flowered plant (Rr) and a white flowered plant (rr). What is the probability that the offspring will be Rr? # 1. # 1/2  # 1/4  # 3/2  # 2 #
+58    Termites are called social insects because # they live together in communities # the queen allocates duties to the workers # the king and queen do mate # the function of the workers and soldiers are very important. # the nests are built by the nasute soldiers #
+59    Which of the following makes up the bee caste? # Queen, drones and workers # Drones, soldiers and workers # Queen, workers and soldiers # Soldiers, Queen and drones. # Soldier and Queen #
+60    Which of the following examples best describes camouflagic colouration in organisms? # A zebra with vertical stripes on the body # A green snake in a green grass  # Certain tree frogs with bright colour patterns. # A flower whose petals and sepals are of the same colour.#  A butterfly which has red colouration on the wing  #

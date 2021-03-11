@@ -1,0 +1,60 @@
+1    The following life processes are common to both plants and animals except # photosynthesis.# growth. # reproduction. # respiration. #
+2    Which of these organelles is common to both plants and animals cells? # Mitochondrion # Centriole # Pyrenoid # Chloroplast #
+3    The epidermis of the mammalian skin is an example of a tissue because the cells # have a similar structure and function. # prevent excessive loss of water. # are impregnated with keratin. # prevent light from passing through them. #
+4    Which of the following statements is correct about organs? # They perform a certain overall function # They are not found in plants # Unicellular animals have few organs # They are composed of specialized cells #
+5    The structure used for movement in Amoeba is # pseudopodia. # flagella. # endoplasm. # cilia. #
+6    Which of the following parts of a cell is not an organelle? # Cell wall # Mitochondrion # Nucleus # Food vacuole #
+7    The folded portion of mitochondrion is called # cristae. # cell membrane. # nucleolus. # partition. #
+8    The physical process which occurs when a red blood cell is placed in distilled water causing it to burst and break down is known as # haemolysis.# plasmolysis. # turgidity. # crenation. #
+9    During the process of osmosis a semi-permeable membrane allows # only solvent molecules to pass through it. # both solute and solvent molecules to pass through it. # only gaseous molecules to pass through it. # only solute molecules to pass through it. #
+10   Which of the following environmental conditions is ideal for plant cells to remain turgid? # Cool, humid weather# Windy weather # Cold, dry weather # Hot, dry weather #
+11   Which of the following processes does not contribute towards growth? # Cell plasmolysis# Cell enlargement # Cell differentiation # Cell division #
+12   The aspect of growth in living organisms include all the following processes except # reversible increase in size. # irreversible increase in length. # increase in number of cells. # increase in dry weight. #
+13   Support in young herbaceous plants is provided by # turgidity. # guttation. # osmosis. # translocation. #
+14   Which of the following heart structures is best adapted to cope with double circulation? # Two auricles and two ventricles# Two auricles and one ventricle # Two auricles and partially divided ventricle # One auricle and one ventricle #
+15   Which of these factors does not contribute towards the ascent of water in plants? # Capillarity # Transpiration pull # Turgor pressure # Root pressure #
+16   The ventricles of the mammalian heart have thicker muscular walls than the auricles because the # ventricles pump blood to longer distances. # ventricles receive more blood. # auricles have smaller capacity. #ventricles are larger. #
+17   Gaseous exchange occurs through the following structures in some organisms except # chloroplast and plastids.# alveoli and lungs. # stomata and lenticels. # spiracle and tracheae. #
+18   Which of the following organs in mammals is not excretory in function? # Pancreas # Kidney # Lungs # Liver #
+19   Which of the following substances is not an excretory product in mammals? # Faeces # Water # Urea # Carbon dioxide #
+20   An organisms which maintains a constant temperature irrespective of environmental temperature fluctuation is # a mammal. # an amphibian. # a fish. # an insect. #
+21   Which of the following conditions is responsible for the presence of sugar in the blood of diabetic patients? # Low production of insulin # Low intake of carbohydrates # High production of insulin # High intake of carbohydrates #
+22   The central nervous system in humans is made up of the # brain and spinal cord.# brain, spinal cord and cranial nerves. # brain and spinal nerves. # brain, medulla oblongata and nerves. #
+23   The part of the ear in mammals responsible for the detection of sound is the # tympanum. # cochlea. # semi-circular canal. # utriculus. #
+24   Which of the following statements best describes pollination? The transfer of pollen grain from # anther to stigmas. # stigmas to stamens. # the anther of a flower to the stigma of another flower of a different species. # anther to the ovary. #
+25   Which of the following vertebrae provide articulating surfaces for the ribs? # Thoracic # Lumbar # Cervical # Sacral #
+26   Which of the following is not a component of the appendicular skeleton? # Atlas # Femur # Pelvic girdle # Ulna #
+27   If the mucus in the air track of mammals dry up and the hairs in the nostrils are removed # impure air would be breathed into their lungs. # the speed of air movement into their lungs would increase. # breathing air into their lungs would be difficult. # more air would be taken into their lungs. #
+28   A one-seeded fruit in which the pericarp has fused with the seed coat is classified as # a caryopsis. # a legume. # an achene. # a berry. #
+29   Study the following list of deficiency symptoms in animals, use it to answer the following question  I. Loss of appetite and weight; II. Delayed healing of wounds; III. Rickets; IV. Sterility in animals; V. Failure of blood to clot; VI. Night blindness. Which of the following deficiencies is caused by lack of vitamin A  # VI# Ill # V  # I  #
+30   Study the following list of deficiency symptoms in animals, use it to answer the following question  I. Loss of appetite and weight; II. Delayed healing of wounds; III. Rickets; IV. Sterility in animals; V. Failure of blood to clot; VI. Night blindness. Which of the following vitamins would correct the deficiency numbered V? # Vitamin K  # Vitamin A  # Vitamin C # Vitamin B #
+31   Study the following list of deficiency symptoms in animals, use it to answer the following question  I. Loss of appetite and weight; II. Delayed healing of wounds; III. Rickets; IV. Sterility in animals; V. Failure of blood to clot; VI. Night blindness. Which of the following combination of food substances would correct the deficiency numbered Il? # Green vegetables, butter and meat.# Yeast, liver and rice # Red palm oil, carrot and egg yolk # Tomatoes, oranges and mangoes #
+32   Which of the following food substances would produce a translucent mark when rubbed on a white paper? # Groundnut# Beans # Mango # Potato #
+33   if an enzyme works best in an acid medium, in which of the following parts of the human gut is the pH best for enzyme activities? In the # stomach, pH 2.0. # duodenum, pH 7.0 # mouth cavity, pH 8.0. # ileum, pH 9.0. #
+34   Which of the following organisms is not considered as a parasitic plant? # Rhizopus # Dodder # Mistletoe # Cassytha #
+35   The examples of autotrophic organisms include the following except # Hydra. # Chlamydomonas. # Spirogyra. # Euglena. #
+36   Which of the following organisms feeds both autotrophically and heterotrophically? # Mucor # Paramecium # Euglena # Hydra #
+37   Siphons and gills are structure in aquatic organisms used for # gaseous exchange. # bouyancy. # excretion. # movement. #
+38   The first step in carrying out ecological studies in a terrestrial habitat is # mapping the area. # collection of organisms. # measuring abiotic factors # quadrat sampling. #
+39   Which of the following components of an ecosystem does not contribute to the biomass of the system? # Habitat# Consumers # Micro-organisms # Producers #
+40   The physical and chemical factors which affect the life of organisms in an environment are described as # abiotic. # edaphic. # physiogrpahic. # biotic. #
+41   The group of several populations that interact and share a habitat, form # a community. # an ecotype. # a tribe. # a species. #
+42   Which of these factors are common to both aquatic and terrestrial habitats? # Light, rainfall and temperature # Light, temperature and tide # Rainfall, turbidity and salinity # Light, rainfall and turbidity #
+43   Organisms that feed essentially on plants within any ecosystem may be referred to as # herbivores. # saprophytes. # omnivores. # carnivores. #
+44   If a pond contains water weed, tadpoles, Tap-minnows (fish) and is visited after by Herons (bird) what would be the possible food chain? # Waterweed —> Tadpole -> Tap-minnow -> Heron # Water weed —> Heron —> Tap-minnow -> Tadpole # Water weed —> Tadpole —> Heron —> Tap-minnow # Water weed —> Tap-minnow -> Heron —> Tadpole #
+45   Which of the following statements about feeding relationships is correct? # In a food chain on land, green plant is the producer. # In an aquatic food chain, mollusc larvae are the producers. # In a quatic food web, various copepods feed on mollusc larvae and on sand eel. # In a food web on land, grasshoper feeds on praying mantis and on predator bugs. #
+46   Which of these diseases cannot be spread by an insect? # Measles# Malaria # Trypanosomiasis # Cholera #
+47   Which of the following order correctly represents the trend in eutrophication? # Excess nitrates and phosphates —> Massive algal growth —> Lack of oxygen —> Death of aquatic organisms. # Heavy mineralization —> Lack of oxygen —> Massive algal growth # Excess nitrates and phosphates —> Lack of oyxgen —> Massive algal growth —> Death of aquatic organisms # Lack of oxygen —> Death of aquatic organisms —> Massive algal growth. #
+48   Air pollution can be reduced by the following methods except # recycling tins, cans and bottles.# passing waste gases through filters and absorbers. # using lead-free petrol in cars. # building tall factory chimneys. #
+49   An effective management of natural resources to ensure their continued yield from generation to genertion may involve all the following except # disposal of raw sewage into the sea.# prevention of habitat destruction. # biological control of pests. # protection of wildlife. #
+50   The following practices can contribute towards the conservation of natural resources except # deforestation. # contour ploughing. # establishment of Game Reserves. # afforestation. #
+51   Variation is a factor which # differentiates between individuals of the same species. # qualifies an organism to live with others. # enables organisms to adapt to the environment. # state the external features of an organism. #
+52   Which of the following traits in  humans is not a morphological variation? # shape of head # Colour of skin # Ability to roll the tongue # Height #
+53   The blood group in humans referred to as a universal recipient is #  AB#  A  #  B  # O  #
+54   If a heterozygous red flowered plant,(Rr) was self fertilized, the offspring would be expected to be #  white flowered, + red white flowered plants. # all white flowered plants. #  red flowered, * white flowered plants. # all red flowered plants. #
+55   The contrasting pair of genes affecting a trait and located at the same position on homologous chromosomes is referred to as # alleles. # mutants. # chromatin, # chromatids. #
+56   The haploid number of chromosomes in humans is # 23.# 46. # 24. # 48. #
+57   If a pure breeding white cat (homozygous dominant) mates with a pure breeding black cat (recessive), what would be the fur colour of the F1 generation? # Heterozygou white # Homozygous black # Heterozygous black # Homozygous white #
+58   Courtship behaviour in animals may include all of the following except # basking in the sun by a lizard.# dancing of the worker bee. # croaking of a toad. # howling of a dog. #
+59   Honey-bee workers carry out the following functiosn except # laying eggs. # building nests. # cleaning the nest. # gathering food. #
+60   The long necks and legs of the present day giraffes were some of the basis of # Lamarck’s theory of evolution. # Mendel’s theory of inheritance. # De Vries theory of evolution.# Darwins’ theory of evolution. #

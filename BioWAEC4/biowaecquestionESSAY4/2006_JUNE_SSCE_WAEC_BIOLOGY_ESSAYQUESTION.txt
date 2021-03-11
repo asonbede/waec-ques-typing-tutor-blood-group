@@ -1,0 +1,8 @@
+[
+    "1     (a)(i) List the functions of a typical foliage leaf.\n (ii) Name three types of leaf modifications giving one example in each case.\n (b) Make a diagram 8- 10cm long, of the female reproductive part of a flowering plant and labelfully.\n (c) Name three plants that are pollinated by insects.",
+    "2     (a)(i) Describe three features of a typical vertebra.\n(ii) Name three types of skeletons found in animals, and in each case name one animal which possesses it.\n (b)(i) State four functions of the mammalian skeleton\n  (ii) Name four types of joints found in the mammalian skeleton.",
+    "3     (a) Write short notes on each of the following: (i) ecosystem; (ii) population; (iii) ecological succession in plants.\n(b) List five ways by which nitrogen can be made available to the soil for plant growth.",
+    "4     (a) Explain the term, conservation of natural resources. \n (b)(i) List seven methods of soil conservation.(ii) Name four other natural resources that may be conserved.\n (c) State three factors which negatively affect conservation of forest in West Africa.\n (d) Describe what happens during the denitrification stage of the nitrogen cycle.",
+    "5     (a) What is a hormone?\n (b) Outline the role played by adrenaline in an emergency situation.\n (c) In a tabular form, list five differences between hormonal co-ordination and nervous co-ordination.\n (d) Name three animal hormones and two plant hormones.",
+    "8     (a)(i) Briefly explain the term respiration. (ii) Name the two types of respiration and write a balanced equation tosummarize each of them.\n(b) Outline the mechanisms involved in: (i) inhalation; (ii) exhalation in human beings."
+]

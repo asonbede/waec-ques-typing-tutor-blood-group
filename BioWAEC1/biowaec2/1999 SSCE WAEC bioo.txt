@@ -1,0 +1,60 @@
+﻿1     Which of the following organisms does not exist as a single cell? # Volvox # Euglena # Chlamydomonas. # Amoeba #
+2     Which of the following features of Paramecium is not an advancement over Amoeba? The possession of # definite shape # Cilia # oral groove # nucleus #
+3     Which of the following diseases results from the deficiency of insulin? # Diabetes.# Goitre # Beri-beri # Cretinism #
+4     Root hairs absorb water from the soil by # osmosis. # plasmolysis. # translocation. # diffusion. #
+5     One of the similarities between algae and mosses is their possession of # chlorophyll # stem # leaves # roots #
+6     The vessel that carries blood from the heart to the lungs is called an artery because it # contains oxygenated blood # contains more blood than the other vessels # carries blood away from the heart # has thick inelastic wall #
+7     During anaerobic respiration in skeletal muscles, pyruvic acid is # reduced to lactic acid # oxidised to ethanol # oxidised to lactic acid # reduced to water. #
+8     Use the information on the stages involved in conjugation to answer the following question \n I. Transfer of one cell content into the adjacent cell.  II. Formation of a conjugation tube. III. Secretion of thick wall to form a zygospore. IV. Fomartion of a protuberance. V. Germination of a filament. Which of the following organisms exhibits the stages listed above during conjugation? # Spirogyra # Euglena # Volvox # Clamydomonas #
+9     Use the information on the stages involved in conjugation to answer the following question \n I. Transfer of one cell content into the adjacent cell.  II. Formation of a conjugation tube. III. Secretion of thick wall to form a zygospore. IV. Fomartion of a protuberance. V. Germination of a filament. Which of the following arrangements is the correct sequence of the process? # II, I, IV , V and III # IV, II, IIII and V  # IV,I,II,V and III # V,II,III and I #
+10    The teeth used for tearing and cutting are # canine and incissors.# premolar and incissors. # molar and incissors. # canine and molars. #
+11    Turgor pressure occurs in a cell when the  # volume of cell decreases. # cell loses water to its environment. # cell is put in an isotonic solution. # volume of its cell sap increases. #
+12    Study the diagram below, use it to answer the following  question.   Which of the following bones is illustrated in the diagram? # Scapula# Humerus # Patella # Tibia #1999bio4.jpg
+13    Study the diagram below, use it to answer the following  question.   The part labelled I in the diagram is for the attachment of # shoulder muscles # biceps # the vertebral column # ribs. #1999bio4.jpg
+14    Study the diagram below, use it to answer the following  question.   Which of the following bones forms a joint at the point labelled II in the diagram? # Humerus # Sternum # Radius # Femur. #1999bio4.jpg
+15    Which of the following is correct about the transverse section of vein when compared with that of an artery? # There are valves in veins but not in arteries.# The endothelium of the vein is thinner than that of an artery. # There are more smooth muscles in a vein than in an artery. # The lumen of a vein is wider than that of an artery. #
+16    Terrestrial plants exchange gases through the following except # chloroplast # stomata. # lenticels #root-cells. #
+17    Glomerular filtrate contains # urea# amino acids # no proteins # no glucose #
+18    Which of the following is not a function of the liver in mammals? # Filtration of urea from the blood.# Conversion of gycogen into glucose # Deamination of excess nitrogenous substances # Storage of some vitamins #
+19    Iodine is needed by a patient suffering from a malfunctioning of the # thyroid gland. # adrenal gland. # sebaceous gland. # salivary gland. #
+20    The medulla oblongata controls all the following except # balance and posture# breathing rate # blood pressure # heart beat #
+21    Which of the following statements about short sight is not correct? # The eyeball is too short. # The cornea of the eyeball is too curved. # The images fall in front of the retina. # It can be corrected by using concave lenses. #
+22    Hypermetropia is corrected by the use of # convex lenses # cylindrical lenses # contact lenses # concave lenses #
+23    Use the diagram below to answer the following question.  The structure labelled I the # oviduct. # ovary # uterus # funnel. #1999bio5.jpg
+24    Use the diagram below to answer the following question.  In which of the labelled structures does implantation takes place? # IV # II # VI. # I #1999bio5.jpg
+25    Use the diagram below to answer the following question.  Which of the following indicates the direction of the movement of a sperm introduced into the female reproductive system? # VI—> V—> IV-> I # V -> IV-> I—>II #VI—>IV->I->III. # III —> II —> I—> IV  #1999bio5.jpg
+26    Use the diagram below to answer the following question.  Which of the labelled parts is responsible for the release of ripe ovum? # III # II # I # VI #1999bio5.jpg
+27    During the germination of seeds, water is taken in by the process of # diffusion. # hydrolysis. # imbibition. # translocation. #
+28    Which of the following is not a characteristic feature of wind dispersed fruit? # Buoyancy.# Winged apparatus # Flossy structure # Light weight #
+29    During photosynthesis, light energy is always absorbed by the # chlorophyll. # Water. # enzyme. # shoot. #
+30    Use the information below on factors required during photosynthesis to answer the following Question I. CO II. Chlorophyll III. Water IV. ATP V. NADPH. Which of the above factors can be a limiting factor for the process to proceed? # I and II only # I and III only # I and IV only # I, III and IV only. #
+31    Use the information below on factors required during photosynthesis to answer the following Question I. CO II. Chlorophyll III. Water IV. ATP V. NADPH. The factors required for the dark phase of photosynthesis are # III, IV and V only # III and V only #lV and V only. # III and IV only. #
+32    In water culture experiments, the culture solutions are protected from sunlight in order to # prevent algae from growing in the solution. # prevent the minerals in the solution from being destroyed. # allow the minerals to be used up at room temperature. # control the temperature of he culture solution. #
+33    The importance of a balanced diet is to # provide good health for an individual.# provide good taste in the food. # increase the effectiveness of digestion # maintain constant size of an animal #
+34    The dentition of a herbivore is distinct from that of other animals due to the presence of # diastema. # cusps on molar teeth # canines. # ridges on molar teeth. #
+35    Which of the following statements is true? # Pepsin acts on proteins to give peptide. # Lactase acts on maltose to give amino acid. # Peptide acts on starch to give maltose. # Ptyalin acts on protein to give amino acid. #
+36    Which of the following organisms can be found in fresh water habitat? # Spirogyra and pond skater.# Red mangrove and  pond skater # Sargassum and red mangrove # Sargassum and dog fish #
+37    Which of the following is not a biotic factor? # Pressure.# Predators # Grazers # Parasites #
+38    Desert plants are usually called # xerophytes # mesophytes # Sporophytes # hydrophytes #
+39    The secchi disc is used to measure # turbidity of water # specific gravity of water # depth of water # speed of flow of water #
+40    Soil factors in an ecosystem are referred to as # edaphic.# climatic. # biotic. # topographic. #
+41    A known weight of soil sample was oven-dried to obtain a constant weight. The loss in weight was due to loss of # water and organic matter # water only # inorganic matter and water. # organic matter only. #
+42    Carbon is added to the atmosphere by the following processes except # photosynthesis # burning # volcanic eruption # respiration #
+43    Which of the following is a means of measuring primary production? # Harvested plants in a unit area.# Life span of an organism # Number of predators in an environment # Rate of reproduction of animals #
+44    A situation where by some mammals remain inactive throughout dry and hot seasons is known as # aestivation. # dormancy # burrowing. # incubation. #
+45    Which of the following factors may not affect living organisms in an aquatic habitat? # Humidity # Temperature # Light. # Turbidity #
+46    Which of the following parasites is a flat worm? # Schistosoma.# Trypanosome # Ascaris # Plasmodium #
+47    During prolonged exercise, glucose in the muscle is converted to # lactic acid # co-enzyme. # ethanol # pyruvic acid #
+48    Which of the following is an effect of carbon monoxide on man? # Reducing oxygen carrying capacity of blood # Causing gene mutation # Destroying white blood cells. # Irritating the skin #
+49    Which of the following is a renewable natural resource? # Soil # Timber # Mineral. # Air #
+50    Which of the following resources is competed for by organisms in the desert? # Water.# Temperature # Oxygen # Light #
+51    The major types of man’s finger prints do not include # simple # compound # loop. # arch #
+52    Which of the following is an example of discontinuous variation? # Blood groups of patients # Complexion of beauty contestants # Weight of weight lifters. # Height of students #
+53    Which of the following statements is correct about variation? # Offspring differ from their ancestors and from each other.# Offspring from the same parents look alike. # Offspring differ from their ancestors but look like their immediate parents. # Offspring are different from their parents only. #
+54    Which of the following statements about sex determination is correct? At fertility # the probability of male to female offspring is 1/2  # the Y chromosome of the father decreases the probability of having a male child to 1/4 # the XX chromosome of the mother decreases the probability of having a female child to 3/5 # the vigour of either parents determines the sex of the offspring. #
+55    The genotypic ratio of 1:2:1 in the offspring of a hybrid cross illustrates the law of # segregation # dominance. # linkage. # use and disuse. #
+56    Which of the following scientists was involved with organic evolution? # Lamarck #Morgan # Pasteur. # Mendel #
+57    Which of the following traits may not be important in marriage counselling? # Sex-determination # Sickle-cell anaemia # Rhesus factor # Colour of skin. #
+58    In fishes, the brooders return to their parent's mouth for # protection.# respiration. # breeding # feeding. #
+59    According to Charles Darwin’s Theory of evolution, natural selection involves the survival of the # fittest.# most populous # youngest. # weakest #
+60    Which of the following habitats cannot be used for the study of succession? # Well cultivated land.# Abandoned farmland # A pond # Savanna grassland #

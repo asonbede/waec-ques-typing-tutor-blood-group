@@ -1,0 +1,60 @@
+﻿1     In which of the following levels of classification are the members most similar? # Species #Genus # Phylum # Order #
+2     Use the diagram below to answer the question.  The diagram represents a # filament # colony # part of a living organism. # cell #2013bio5.jpg
+3     Use the diagram below to answer the question that follows.  Pyrenoid is present in the structure labelled # Ill # Il # I #IV #2013bio5.jpg
+4     Spirogyra is regarded as a multicellular  plant because # the cylindrical cells are linked end to end # its cells are linked together by cytoplasmic strands # its cells are large # it is an algae containing a large vacuole. #
+5     Which of the following pairs of structures in living organisms do not perform similar functions?# Root hairs and mammalian hairs # Feathers and scales # Contractile vacuole and kidneys. # Lungs and spiracles #
+6     Which of the following sequences is the correct arrangment of tissues in the anatomy of a young dicotyledonous stem from the inside to the outside? # Pith, xylem, cambium, phloem collenchyma, parenchyma and epidermis # Xylem, phloem, cambium, cortex, endodermis, collenchyma and epidermis # Phloem, xylem, cambium, cortex, endodermis, collenchyma and epidermis # Pith, philoem, cambium, xylem, parenchyma, collenchyma and epidermis #
+7     An animal which possesses scale, nares and a backbone is likely to be a # lizard # rat # bat. # toad #
+8     The opening of the guard cells of the epidermis in plants is by the process of # osmosis # diffusion # active transport # transpiration. #
+9      What happens to a plant if the shoot tip is cut off and replaced by an agar block containing auxin? It will #continue to grow normally. # grow rapidly. # die completely. # stop growing. #
+10     Anaerobic respiration results in the production of # less energy than aerobic respiration.# no energy. # an equal amount of energy to aerobic respiration. # more energy than aerobic respiration #
+11     Which of the following is nota skeletal tissue? # Plasma # Chitin # Cartilage # Bone #
+12     Which of the following statements is not correct about the mammalian heart?# Blood passes from the right ventricle to the left auricle through the aorta # The walls of the ventricle are thicker than those of the auricle # The tricuspid valve prevents the back flow of blood into the right auricle. # Oxygenated blood enters the left auricle from the pulmonary vein #
+13      Which of the following organs are used for gaseous exchange in a mature toad? # Skin, lungs and mouth.# Lungs, mouth and eardrum # Mouth, skin and gills # Gills, lungs and eardrum #
+14      Which of the following structures is used for respiration in insects? # Spiracles.# Thorax # Cuticle # Lungs #
+15      Which of the following statements about the diaphragm of a mammal is not correct? It # is a thick layer of muscle. # is made of epithelial cells. # is part of the human respiratory apparatus. # separates the thorax and the abdomen. #
+16      A substance present in the glomerular filtrate in the mammalian kidney is # glucose. # fibrinogen. # albumen. # blood platelets. #
+17      In humans, excretoin of hypertonic urine is associated with the # Loop of Henle. # Bowman’s capsule. # proximal convoluted tubule. # distal convoluted tubule. #
+18      The maintenance of a stable internal environment within the body of a mammal is known as # homeostasis. # plasmolysis. # excretion.  # osmosis. #
+19       Which part of the nephron is associated with ultra-filtration? # Bowman’s capsule# Proximal convoluted tubule # Collecting duct # Distal convoluted tuble #
+20      Which of the following conditions would result in a decrease in the production of antidiuretic hormone? # Increase in osmotic pressure of blood # Drinking large quantities of water. # period of strenuous exercise # Abnormally high blood sugar level. #
+21      Which of the following structures is not essential in a wind pollinated flower? # Petal# Overy # Stigma # Anther #
+22      Study the diagram below and use it to answer the question that follows.  Which part of the flower produces the structure labelled Ill? # Anther# Pollen # Stigma # Carpel #2013bio6.jpg
+23      Study the diagram below and use it to answer the question that follows.  The parts lebelled Ill and IV respectively are called # pollen tube and style. # pollen grain and pollen tube # anther and filament # stigma and style. #2013bio6.jpg
+24      Study the diagram below and use it to answer the question that follows.  Which of the labelled parts would become a component of the seed after fertilization? # I # Il # IV # V #
+25      The resolution of a microscope refers to its power to # distinguish clearly between two objects. # scan the suface of an object. # focus on an object. # increase an object’s apparent size. #
+26      The process by which plants manufacture food from carbon dioxide and water using energy from the sun is called. # photosynthesis # anabolism # catabolism # chemosynthesis. #
+27      Conduction of water and mineral salts through the xylem vessels is enhanced because the xylem cells are # long, narrow tubes placed end to end. # close to the endodermis # centrally placed in the roots. # thickened with lignin. #
+28      Which of the following factors is likely to increase the rate of transpiration in plants? # An increasein leaf surface area to volumne ratio # Increase in humidity around the leaves of plants. # Removal of leaves from plant. # A reduction in the number of stomata per unit surface area #
+29      The name of the enzyme that catalyses the conversion of glucose to glucose -6- phosphate at the beginning of glycolysis is # hexokinase. # glucose isomerase. # glucose-6-kinase. # phospho-fructokinase. #
+30      The correct arrangement of food classes of the same quantity in the order of magnitude of energy value in animals in decscending order is # Fats and oils, carbohydrates,  protein, water. # Water, facts and oils, carbohydrates, protein. # Protein, fats and oils, water and carbohydrates. # Carbohydrates, fats and oils, water, protein. #
+31      Which of the following subtsances is not a complex carbohydrate? # Glucose# Cellulose # Starch # Glycogen #
+32      Which of the following associations is an example of epiphytism? # Fern on palm tree.# Mistletoe on citrus fruit # Egret on cow # Lice in the human hair #
+33      Study the diagrams below carefully and use them to answer question that follows.  What is the likely food of the bird in I? # Nectar # Seed # fishes # Worms #2013bio7.jpg
+34      Study the diagrams below carefully and use them to answer question that follows.  The food of the bird in II is # seed. # nectar. # fishes. # worms. #2013bio7.jpg
+35      Ecology simply means the study of # the interrelationship between organisms and their environment. # the properties of a habitat. # the interrelationship between plants and animals. # particular species of plants and animals. #
+36      The maximum size of a population that a given area can support is known as # population density # carrying capacity. # population growth. # maximum population. #
+37      The producers in a food chain in an aquatic environment are # zooplankton. # phytoplankton. # fishes. # birds. #
+38      The frog is considered a better swimmer than the toad because it # has much longer and stronger hind limbs. # lives in water most of the time. # is more streamlined than the toad. # has more pronounced webbed digits. #
+39      The bacteria that reduce nitrates in the soil into gaseous nitrogen are referred to as # denitrifying bacteria. # putrefying bacteria. # saprophytic bacteria. # nitrifying bacteria. #
+40      A pyramid of numbers is constructed by # labelling the living organisms.# measuring productivity. # conducting census. # comparing living and non-living things. #
+41     The main reason for immunizing children is to # stimulate the production of antibodies # increase the production of white blood cells. # stimulate the production of antigens. # destroy pathogens in their bodies. #
+42      Rhizobium which lives in the root nodules of leguminous plants is an example of the association known as # mutualism. # epiphytism. # saprophytis. # commensalism. #
+43      Ascaris lumbricoides is a parasitic # round worm. # arthropod # elastic worm. # flat worm. #
+44      The following organisms are pests of plants except # nematodes. # bacteria. # rodents. # birds. #
+45       The absence of alimentary canal in the parasitic flatworm can be atrributed to the fact that # its body absorbs digested food. # it has no enzymes. # it has suckers on the scolex. # its body does not feed. #
+46       Which of the following statements is not a reason for conserving wildlife? # Increasing the amount of rainfall# Serving as a source of food # Serving as a source of income # Attraction of tourists into the country #
+47       Which of the following human activities would help prevent endangered species from extinction? # Temporary maintenance of the species in zoological gardens # Regular clearing of the forest vegetation. # Regular irritation of their natural habitats # Uncontrolled killing of the species. #
+48       In genetics, linkages refer to the linking of genes of the # different chromosomes. # same nucleus # different nuclei # same chromosomes. #
+49       A man’s blood group is AB What is the probability of the man giving birth to a child with blood group O? #50% #25% #100% # 0% #
+50       When a man who is Rh-positive marries a woman who is Rh-negative, there will be incidence of # still births. # sicklers. # albinos. # living children. #
+51       The genotypic ratio of the offspring of a hybrid is 1:2:1, which of the following laws illustrates this ratio?# Segregation # Dominance # Linkage # Use and disuse #
+52       A gene that is only located on the X-chromosome is said to be # sex-linked. # defective. # expressed in males only. # expressed in females only. #
+53       If a boy has blood type O and his mother has blood type A, what is the genotype of his father? #AO # AA #AB # BB #
+54       A man who suffers from haemophilia marries a woman who is a carrier, what percentage of their children are likely to be haemophilic’?#50% #75% #100% # 25% #
+55       Which of the following traits may be considered in marriage counselling? # Rhesus factor # Fingerprints # Colour of skin. # Height #
+56       Which of the following structures is only formed during cell division in animal cells? # Centrosome # Cytoplasm # Ribosome # Cell membrane #
+57       The function of the drone in a colony of bees is to # mate with the queen # protect the colony # lay eggs. # clean the cells. #
+58       Which of the following features is used by chameleons to escape predation? # Adaptive colouration.# Coiling tail # Offensive smell # Fearsome appearance #
+59        A scientist who was involved in the development of evolution theory is # Lamarck. # Mendel. # Morgan. # Pasteur. #
+60       Darwin noticed that organisms in similar habitats across the world looked alike. This illustrates #co-evolution #adaptive radiation #descent with modification# convergent #

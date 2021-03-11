@@ -1,0 +1,10 @@
+﻿1    Polifera do not possess a nervous system Cells can exist in the following forms,Before we look at the widgets, let's take a look at how some, of their common attributes—such as sizes
+2    shape of locomotory part is correct Various lengths, widths, and other dimensions of widgets can ,be described in many different units
+3    plasmodium cannot exixt freely on its owm As in most contemporary display systems, the origin of each coordinate ,system is at its upper left corner
+4    spider is correct with the x coordinate increasing toward the right, and the y coordinate increasing toward the bottom
+5    mitochondria is correct The base unit is the pixel, with the top left pixel having coordinates (0,0). Coordinates that you specify
+6    absorption of water from root hairs is correct As a tuple whose first element is, the font family, followed by a size (in points if positive, in pixels if
+7    euglena is correct The return value is a list of strings. Note: You must create your root window before calling this function
+8    lower arm is correct Pass this method a string, and it will return the number of pixels of width that string will take in
+9    part 11 is correct These constants are given as compass points, where north is up and west is to the left. We apologize to
+10   part 111 is correct Anchors are also used to define where text is positioned relative to a reference point. For example, if

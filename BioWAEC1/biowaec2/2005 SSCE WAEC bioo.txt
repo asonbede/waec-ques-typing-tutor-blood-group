@@ -1,0 +1,60 @@
+1    Which of the following groups embraces the rest? # kingdom  # phylum # species # class  #
+2    The group mollusca is characterised by the presence of # soft, non segmented bodies.# star-shaped bodies # backbones # jointed appendages #
+3    A virus can sometimes be regarded as a living organism because it # reproduces in living cells. # exists in a variety of shapes. # is easily visible with the aid of an electron microscope. # causes disease in plants and animals. #
+4    A major difference between plants and animals is that # there is free movement in animals while this is limited in plants. # there is indefinite growth in animals only. # animals consume inorganic materials as food, while plants consume organic materials. # animals give up carbon-dioxide as a waste product of respiration while plants do not. #
+5    Which of the following adaptation is not found in fruits and seeds dispersed by the wind? # spongy coats # turfs of hairs # wings on pericarp # small and light body #
+6    The main similarity between unicellular and multicellular organisms is that both # perform all life activities. # exist as filaments # are plants # exist as colonies. #
+7    One important characteristic of green plants is that they # are autotrophic # are usually motile. # respond slowly to simuli. # possess specialized sense organs. #
+8    A serious disadvantage of complexity in higher organisms is # a high demand for food and energy # ability to function in many specialized roles. # little amount of energy dissipated in functioning. # specialization of parts of the body. #
+9    Which of these organs can be considered vestigial in humans but functional in other mammals? The # appendix # rectum # stomach # liver #
+10   Which of the following pairs of organisms are photosynthetic? # ChlamydOmonas and Euglena # VoIvo and Rhizopus # Nostoc and Plasmodium # Amoeba and Paramecium #
+11   Which of the following pairs of organisms exist as colonies? # Pandorina and Volvox # Chlamydomonas and Amoeba # Hydra and Spirogyra # Obelia and Euglena #
+12   Which of the following best explains why it is difficult to see clearly in dim light? # too little light reaches the retina and so the cones may not be stimulated at all. # the choroid reflect all the light that enters the eye. # dim light causes the pupil to close up so that not much light enters the eye. # initially the eyes cannot operate when the light is dim. #
+13   In active transport, molecules move against a concentration gradient, therefore, # molecules move from a region of high concentration to a region of low concentration. # the concentration gradient has little effect on the movement of molecules. # molecules force their way through special channels. # molecules move from a region of low concentration to a region of high concentration. #
+14   Which of the following substances pass through the root cell membrane by osmosis? # water. .# carbon dioxide # oxygen # cell sap #
+15   Which of the following statements defines plasmolysis? # shrinking away of the cytoplasm from the plant cell wall. # shrinking away of cytoplasm from an animal cell membrane. # shrinking of the vacuole and leaving the cytoplasm attached to the cell wall. # shrinking of a plant cell in a solution. #
+16   Raw materials required by green plants to manufacture their food are # inorganic substances. # living materials # mainly gases. # mainly fluids. #
+17   The role of ATP include all the following activities except # provision of energy to do work in living organisms. # transmission of nerve impulse. # keeping the body warm in homoithermic animals. # producing water during aerobic respiration. #
+18   The basis of growth involves the following processes except # cell reduction. # cell division # cell differentiation # cell enlargement #
+19   Which of the following statements is true about movement of the forearm? In # bending the arm, the biceps contract and the triceps relax. # straightening the arm the biceps contract and the triceps relax. # straightening the arm, both biceps and triceps contract. # bending the arm, the biceps relax and the triceps contract. #
+20   Only specially adapted micro-organisms are found in # mouth cavities# humid air # moist soil # salty water #
+21   Which of the following organisms causes syphilis? # Treponema pallidum # Bordetella pertusis # Clostridium tetani # Mycobacterium tuberculosis #
+22   In pIants respiration occurs in # the stomata and lenticel only # the root only. # all living cells. # mesophyll cells only. #
+23   A faster colour change of a dry cobalt chloride paper affixed to the lower surface of a leaf than the upper one, indicates that # the lower surface of the leaf has more stomata. # sunlight causes the stomata on the upper surface to close. # stomata are not present on the upper surface of a leaf. # sunlight slows down water loss from the upper surface. #
+24   Which of the following takes place when a person’s body temperature rises above 37°C? # sweating and vasodilation # Panting and vasoconstriction # Panting and vasodilation # Sweating and vasoconstriction #
+25   Which of the following glands secretes a substance into the blood stream of a frightened person? # Adrenal glands # Salivary glands # Gastric glands # Parathyroid gland #
+26   Reading the verdict of a case by a judge or magistrate is an example of # a voluntary action.# an instinct # a conditioned reflex # a reflex action. #
+27   Which of the following describes an example of fertilization in higher organisms? # Fusion of sperm and egg nuclei. # Ejaculating of sperm into a female body. # Male gametes germinating in the pollen tube. # A pollen grain landing on a sticky stigma. #
+28   When both ovaries of the human female ovulate simultaneously and both ova are fertilized, then # fraternal twins are produced. # Siamese twins are produced. # the children produced are genetically identical. # identical twins are produced. #
+29   Which of the following statements is not true of the light stage of photosynthesis? # Water is formed.# Water molecules split into hydrogen and hydroxyl ions. # Carbon (IV) oxide is reduced by hydrogen atoms in NADPH2 # Chlorophyll is energized by sunlight. #
+30   Which of the following elements is required in large amounts by plants? # Molybdenum # Boron # Copper # Phosphorus #
+31   Which of the following substances has the highest amount of energy in joules per unit weight? # Fats # Proteins # Vitamins # Carbohydrates  #
+32   Which of the following juices contains the enzyme ptyalin? # Saliva# Pancreatic juice # Succus # Gastric juice #
+33   Trees in savannah habitats usually have heavy thick bark which mainly # reduces the rate of transpiration. # protect them from the scorching sun. # protect them from heavy winds. # resist bush fires.   #
+34   In the marine food web, the source of energy to the producer comes from # sun # sea water # air # sea waves #
+35   A population is best described as # a group of the same species of organisms living together. # a group of animals and plants living together. # a group of insects and grasses. # different species of wild animals. #
+36   Possession of strong adhesives is a feature of animals living in/on # benthic zones, # rocky shores # deserts # sandy beaches #
+37   A stable self sustaining environment produced by an interaction between the biotic and abiotic components is best described as # an ecosystem # a community # a habitat  # a niche #
+38   Which of the following factors is not associated with aquatic habitats? # edaphic.# turbidity # temperature # salinity #
+39   Which of the following instruments is used to measure the speed of a stream? # simple float # secchi disc # quadrat frame # rain guage #
+40   In an ecosystem the organism which changes light energy into stored chemical energy is the # producer # decõmposer # carnivore # consumer #
+41   Which of the following processes does not contribute to the maintenance of the nitrogen content,of the soil? # decomposition # denitrification # nitrification # nitrogen fixation #
+42   Which of the following organisms is well adapted for fluid feeding? # mosquito # grasshopper # ants # cockroach #
+43   The density-dependent factors that operate to regulate a population size may include the following except # fire outbreak. # spread of diseases. # increased competition. # shortage of food supply. #
+44   Which of the following infections is unlikely to respond to antibiotic treatment? # typhoid fever # ring worm # measles # tetanus  #
+45   Algal bloom depletes oxygen content of bodies of water polluted by # raw sewage disposal. # thermal plant discharge. # crude oil spillage. # industrial effluents. #
+46   Conservation of wild life is necessary mainly because # it helps to prevent extinction of species. # many predator wild animals help in control of pests. # many people derive pleasure from, observing wild animals. # wild species cannot resist disease better than their domesticated species. #
+47   Which of the following is not a means of conservation? # burning of vegetation before cropping.# prevention of poaching # replacing harvested mature trees with seedlings. # controlling excessive deforestation. #
+48   Which of the following statements about mutation is true? # the genotype is affected. # the phenotype is not affected. # it cannot be induced by artificial means. # the genotype is not affected. #
+49   Variation which exhibits a wide range from one extreme to the other with very little difference between the intermediates is described as # discontinuous # continuous # genotypic. # phenotypic. #
+50   Which of the following is an example of physiological variation? # blood groups # skin colour # finger prints # human height  #
+51   A person with blood group B can only donate blood to individuals with blood groups # B and AB # O only # B only. # A and B  #
+52   If the pink colour of a petal is dominant over white what would be the colour of the flower of the F1 generation when a pure pink flowered plant is crossed with a white flowered plant # pink # white # yellow  # purple #
+53   If two parents are sickle cell carriers then their genotypes would be # HbAHbS and HbAHbS # HbSHbS and HbSHbS # HbAHbA and HbAHbA # HbAHbA and HbSHbS #
+54   Which disease is sex-linked and mainly afflicts male offspring? # sickle cell anaemia # haemophilia # diabetes # malaria #
+55   ln a living cell, factors which are responsible for inheritance are located # on the chromosomes. # on the nucleolus. # in the nucleoplasm. # on the nuclear membrane. #
+56   Which of the following is not a correct base pairing on the DNA strand? # Uracil, Thymine# Cytosine, Guanine # Guanine, Cytosine # Adenine, Thymine #
+57   Which of the following organisms is a social insect? # Honey bee # Butterfly # Housefly # Grasshopper #
+58   Territoriality is a phenomenon among # male animals with a group of females # plants of different species # animals and plants.  # lower organisms. #
+59   A honey bee worker communicates with others on locating a source of food by # dancing # stinging # instinct  # flares #
+60   Which of the following is not an evidence of evolution? # Polymorphism # Comparative embryology # Comparative anatomy # Fossil records #
